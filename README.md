@@ -1,6 +1,6 @@
 # Income and expenditure project !
 This is a project to calculate your income and expenses !
-https://nb-expense-tracker.vercel.app/
+\https://nb-expense-tracker.vercel.app/
 
 ## Description of the project
 ّFirst you should select the Add button for import your data ; 
