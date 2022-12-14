@@ -3,7 +3,7 @@ This is a project to calculate your income and expenses !
 https://nb-expense-tracker.vercel.app/
 
 ## Description of the project
-ّFirst you should select the Add button for import your data ,
+ّFirst you should select the Add button for import your data ; 
 and choose one of the item ( income or expense ) .
 If you choose income item , your data will turn green and if you choose expense item , your data will turn red !
 In balance section , you can see the different between your income and your expense .
